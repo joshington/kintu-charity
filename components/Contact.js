@@ -33,8 +33,7 @@ export default function Contact() {
           <div>
             <h3 className="text-black text-xl font-bold mb-4">About Us</h3>
             <p className="mb-4 text-sm leading-relaxed">
-              We envision a future where every woman is financially empowered—
-              equipped to manage, grow, and multiply her resources.
+              We envision a future where every one in a community is empowered to alevel of self sustainance
             </p>
             <div className="flex space-x-3">
               <a href="#" className="w-8 h-8 bg-black text-orange rounded-full flex items-center justify-center hover:bg-white hover:text-black transition-colors">
