@@ -73,6 +73,7 @@ export default function Contact() {
               <li className="flex items-center gap-2">
                 <span>📞</span>
                 <span>+256 763 708 044</span>
+                <span>(MM names: Kyeyune Joshua Kato)</span>
               </li>
             </ul>
           </div>
