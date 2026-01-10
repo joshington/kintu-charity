@@ -72,7 +72,7 @@ export default function Contact() {
               </li>
               <li className="flex items-center gap-2">
                 <span>📞</span>
-                <span>+256 756 407 281</span>
+                <span>+256 763 708 044</span>
               </li>
             </ul>
           </div>
