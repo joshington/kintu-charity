@@ -11,6 +11,9 @@ export default function Donate() {
           Your donation helps us educate, empower, and transform lives.
           Every contribution makes a difference.
         </p>
+        <h3 className="text-3xl md:text-4xl font-bold mb-6">
+          "We are running a campaign to buy 300 pairs for children going to school bare footed in Kamuli"
+        </h3>
         <a 
           href="#" 
           className="bg-orange text-white px-10 py-3 rounded-lg hover:bg-orange/90 transition-colors inline-block text-lg"
