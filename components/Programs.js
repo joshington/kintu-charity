@@ -7,19 +7,19 @@ const programs = [
     id: 1,
     title: 'Education Support',
     description: 'Providing access to quality education for underprivileged children.',
-    image: '/images/edu.jpeg'
+    image: '/images/three.JPG'
   },
   {
     id: 2,
     title: 'Women Empowerment',
     description: 'Supporting women with skills, mentorship, and financial literacy.',
-    image: '/images/women.jpeg'
+    image: '/images/two.JPG'
   },
   {
     id: 3,
     title: 'Community Outreach',
     description: 'Health, sanitation, and community-driven development programs.',
-    image: '/images/com.jpeg'
+    image: '/images/four.JPG'
   }
 ]
 
